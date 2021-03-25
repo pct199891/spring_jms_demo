@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 
 import javax.jms.*;
 
-//消息生产者
+//消息生产者     //模拟另外一个人修改了代码
 @Component
 public class QueueProducer {
 
