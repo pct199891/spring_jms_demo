@@ -11,6 +11,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 @ContextConfiguration(locations="classpath:spring/applicationContext-jms-producer.xml")
 public class TestQueue {
 
+    /*修改了代码*/
     @Autowired
     private QueueProducer queueProducer;
 

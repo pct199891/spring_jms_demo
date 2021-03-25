@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring_jms_demo" />
+        <module name="testGit" />
       </profile>
     </annotationProcessing>
   </component>
